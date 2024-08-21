@@ -8,5 +8,5 @@ class Rectangle:
 
 Width = int(input("Enter Width of Rectangle: "))
 Height = int(input("Enter Height of Rectangle: "))
-Rectangle = Rectangle(Width,Height )
+Rectangle = Rectangle(Width,Height)
 print(f"Area of the Rectangle is : {Rectangle.area()}")
